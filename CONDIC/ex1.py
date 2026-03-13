@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 nota = float(input("Digite a nota do aluno: ")) #o usuário irá digitar a nota do aluno, e essa nota será convertida para um número decimal (float) para permitir notas com casas decimais
 media = 7.0 # a média para aprovação é 7.0, ou seja, o aluno precisa ter uma nota igual ou superior a 7.0 para ser aprovado diretamente, caso contrário, ele terá que passar por um processo de recuperação ou prova final para tentar alcançar a média necessária para aprovação.
 if nota >= media:
@@ -16,25 +15,7 @@ elif nota < media: # aluno na recuperação
 
         else:
             print(f"Reprovado na prova final, pois sua deveria ser maior ou igual a {media} 😞👎 ")
-=======
-nota = 5
-media = 6
-nota_recuperacao = 2
-nota_final = 10
 
-if nota >= media:
-    print("Aprovado😁👍")
-elif nota < media: # aluno na recuperação
-    print("Recuperação😕")
-    if nota_recuperacao >= media:
-        print("Aprovado na recuperação😁👍")
-    if nota_recuperacao < media:
-        print("Voce vai para prova final")
-    if nota_final >= media:
-        print("Aprovado na prova final😁👍")
-    else:
-        print("Reprovado na prova final😞👎 ")
->>>>>>> 940d3ca695558feb4aeb1dd35f213e91c2584840
 
 
 
