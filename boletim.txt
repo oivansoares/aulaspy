@@ -1,0 +1,10 @@
+ A nota de Matematica: 8.5
+A nota de Portugues: 9.0
+A nota de Ingles: 7.5
+A nota de Historia: 6.0
+A nota de Geografia: 8.0
+A nota de Fisica: 9.5
+A nota de Quimica: 7.0
+A nota de Biologia: 8.5
+A nota de Educaçao Fisica: 9.0
+A nota de Artes: 7.5

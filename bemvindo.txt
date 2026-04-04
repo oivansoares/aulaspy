@@ -1,0 +1,2 @@
+Bem-vindo ao curso de Python do Ivan Soares!
+Espero que você aproveite o curso!
